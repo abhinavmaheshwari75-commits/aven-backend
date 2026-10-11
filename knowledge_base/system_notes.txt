@@ -1,0 +1,2 @@
+Aven System Architecture: Level 5 introduces local RAG and semantic vector search.
+Data Science Workspace: Python with FastAPI, SQLite, and Groq API.
